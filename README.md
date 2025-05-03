@@ -35,3 +35,4 @@ in your terminal emulator.
 ## Credits
 
 - Myself, for actually making this 😛
+- Stack exchange, for the ANSI escape codes which I clearly cannot remember
