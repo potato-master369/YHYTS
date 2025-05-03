@@ -7,6 +7,7 @@ YHYTS is a yt-dlp and mpv frontend, allowing for easy use of yt-dlp without havi
 
 To install YHYTS on linux
 `git clone https://github.com/potato-master369/YHYTS/`
+
 `cd YHYTS`
 
 *note: this portion is only needed if you have not installed yt-dlp and mpv*
@@ -21,7 +22,7 @@ On Debian/Ubuntu based systems:
 On RHEL/Fedora based systems:
 `sudo dnf install yt-dlp mpv`
 
-**NOTE: I cannot confirm availability of all of these packages, subject to change by will of repository maintainers**
+**NOTE: I cannot confirm availability of all of these packages, subject to availability by distribution maintainers**
 
 The actual installation:
 `./install.sh`
